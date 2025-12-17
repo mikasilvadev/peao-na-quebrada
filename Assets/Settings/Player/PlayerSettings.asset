@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cb4152c87913e64ba8e36a0643a8e9f, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: Assembly-CSharp::Game.Player.Movement.MovementSettings
+  walkingSpeed: 5
+  runningSpeed: 10
+  crouchingSpeed: 2.5
+  jumpForce: 4
+  gravityScale: 1
+  fallGravityScale: 2
+  mouseSensitivityX: 15
+  mouseSensitivityY: 15
+  runMode: 0
+  crouchMode: 0
+  autoLockTime: 1.5
